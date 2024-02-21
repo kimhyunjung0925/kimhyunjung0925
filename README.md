@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&animation=fadeIn&text=WelcomeME&fontSize=80&fontAlignY=38&desc=hyunjung's%20GitHub%20Profile&descAlignY=60&descAlign=62" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&animation=fadeIn&text=WelcomeME&fontSize=80&fontAlignY=38&desc=hyunjung's%20GitHub%20Profile&descAlignY=75&descAlign=62" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=752BE6&random=false&width=435&lines=%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94+%EB%B2%A0%EC%A7%B1%EC%9D%B4)](https://git.io/typing-svg)
 <details>
@@ -10,8 +10,11 @@
   안녕하세요 반갑습니다.<br/>
   비전공자 새싹 개발자 입니다.<br/>
   6개월 국비수료 후 VisualBasic6를 사용한 MES회사에서 응용프로그램 개발자로 1년7개월 일했습니다.<br/>
-  자바 웹개발자가 되기위한 공부중입니다.<br/>
-  새로운 지식을 배우고, 다양한 사람들과 협력하며, 끊임없이 성장하는 개발자가 되고자 합니다.
+  새로운 언어를 배우는 데에 거부감이 없어 여러 언어를 공부해보려고 열심히 노력중입니다.<br/>
+  현재는 자바 웹개발자가 되기위한 공부중입니다.<br/>
+  새로운 지식을 배우고, 다양한 사람들과 협력하며, 끊임없이 성장하는 개발자가 되고자 합니다.<br/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" alt="Envelope" width="25" height="25" />
+  khjung0925@gmail.com
     
 </details>
 
