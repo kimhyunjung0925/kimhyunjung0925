@@ -36,7 +36,7 @@
 
 <details>
   <summary>
-    <a href="https://easyhomputer.tistory.com">
+    <a href="https://everythingoes.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
     
