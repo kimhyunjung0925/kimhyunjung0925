@@ -14,7 +14,9 @@
   현재는 자바 웹개발자가 되기위한 공부중입니다.<br/>
   새로운 지식을 배우고, 다양한 사람들과 협력하며, 끊임없이 성장하는 개발자가 되고자 합니다.<br/>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" alt="Envelope" width="25" height="25" />
-  khjung0925@gmail.com
+  Email - khjung0925@gmail.com
+
+  Notion - https://khj0925.oopy.io/
     
 </details>
 
